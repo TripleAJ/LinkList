@@ -1,0 +1,84 @@
+{
+  "tests": [
+     {
+      "name": "Unit Test: InsertAtA",
+      "setup": "javac -cp \".:.lift/introcs.jar:.lift/stdlib.jar\" GenericList.java && javac -cp \".:.lift/introcs.jar:.lift/stdlib.jar\" TestInsertAtA.java",
+      "run": "java -cp \".:.lift/introcs.jar:.lift/stdlib.jar\" TestInsertAtA",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Unit Test: InsertAtB",
+      "setup": "javac -cp \".:.lift/introcs.jar:.lift/stdlib.jar\" GenericList.java && javac -cp \".:.lift/introcs.jar:.lift/stdlib.jar\" TestInsertAtB.java",
+      "run": "java -cp \".:.lift/introcs.jar:.lift/stdlib.jar\" TestInsertAtB",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Unit Test: InsertBackA",
+      "setup": "javac -cp \".:.lift/introcs.jar:.lift/stdlib.jar\" GenericList.java && javac -cp \".:.lift/introcs.jar:.lift/stdlib.jar\" TestInsertBackA.java",
+      "run": "java -cp \".:.lift/introcs.jar:.lift/stdlib.jar\" TestInsertBackA",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+     {
+      "name": "Unit Test: InsertFrontA",
+      "setup": "javac -cp \".:.lift/introcs.jar:.lift/stdlib.jar\" GenericList.java && javac -cp \".:.lift/introcs.jar:.lift/stdlib.jar\" TestInsertFrontA.java",
+      "run": "java -cp \".:.lift/introcs.jar:.lift/stdlib.jar\" TestInsertFrontA",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Unit Test: TestRemoveBack6",
+      "setup": "javac -cp \".:.lift/introcs.jar:.lift/stdlib.jar\" GenericList.java && javac -cp \".:.lift/introcs.jar:.lift/stdlib.jar\" TestRemoveBack6.java",
+      "run": "java -cp \".:.lift/introcs.jar:.lift/stdlib.jar\" TestRemoveBack6",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Unit Test: TestRemoveBackA",
+      "setup": "javac -cp \".:.lift/introcs.jar:.lift/stdlib.jar\" GenericList.java && javac -cp \".:.lift/introcs.jar:.lift/stdlib.jar\" TestRemoveBackA.java",
+      "run": "java -cp \".:.lift/introcs.jar:.lift/stdlib.jar\" TestRemoveBackA",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Small Input Test",
+      "setup": "javac -cp \".:.lift/introcs.jar:.lift/stdlib.jar\" GenericList.java && java -cp \".:.lift/introcs.jar:.lift/stdlib.jar\" GenericList < input_sm.txt > output_sm_test.txt",
+      "run": "diff output_sm_test.txt output_sm.txt",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Large Input Test",
+      "setup": "javac -cp \".:.lift/introcs.jar:.lift/stdlib.jar\" GenericList.java && java -cp \".:.lift/introcs.jar:.lift/stdlib.jar\" GenericList < input_lg.txt > output_lg_test.txt",
+      "run": "diff output_lg_test.txt output_lg.txt",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}

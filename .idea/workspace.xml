@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="DISPLAY_NOTIFICATION_POPUP" value="false" />
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+  </component>
+  <component name="ProjectId" id="1bivsu3KECj6kPbJtKncmrNOEwW" />
+  <component name="PropertiesComponent">
+    <property name="ToolWindowMessages.ShowToolbar" value="false" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GenericList">
+    <configuration name="Average" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Average" />
+      <module name="CSC 300" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GenericList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenericList" />
+      <module name="CSC 300" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="input_sm.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RandomSeq" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RandomSeq" />
+      <module name="CSC 300" />
+      <option name="PROGRAM_PARAMETERS" value="10 200 300" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestInsertAt_a" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TestInsertAtA" />
+      <module name="CSC 300" />
+      <option name="PROGRAM_PARAMETERS" value="1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestInsertBackA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestInsertBackA" />
+      <module name="CSC 300" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestInsertFrontA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestInsertFrontA" />
+      <module name="CSC 300" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRemoveBack6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestRemoveBack6" />
+      <module name="CSC 300" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="input_sm.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRemoveBackA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestRemoveBackA" />
+      <module name="CSC 300" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Average" />
+      <item itemvalue="Application.RandomSeq" />
+      <item itemvalue="Application.TestInsertAt_a" />
+      <item itemvalue="Application.TestInsertBackA" />
+      <item itemvalue="Application.TestInsertFrontA" />
+      <item itemvalue="Application.TestRemoveBackA" />
+      <item itemvalue="Application.TestRemoveBack6" />
+      <item itemvalue="Application.GenericList" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GenericList" />
+        <item itemvalue="Application.TestRemoveBack6" />
+        <item itemvalue="Application.TestRemoveBackA" />
+        <item itemvalue="Application.TestInsertBackA" />
+        <item itemvalue="Application.TestInsertFrontA" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Hello__World$ListOfInts.ic" NAME="ListOfInts Coverage Results" MODIFIED="1594595252527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
